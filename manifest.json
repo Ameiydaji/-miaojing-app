@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "喵净到家｜猫咪上门服务平台",
+  "short_name": "喵净到家",
+  "description": "猫咪铲屎、猫砂盆清洁与上门照看预约平台",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff8f0",
+  "theme_color": "#fff8f0",
+  "icons": [
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
